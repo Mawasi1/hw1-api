@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b7aeb4a0-4136-471c-8040-d2f4480c66d4",
+    "name": "Urban Emergency Response",
+    "location": "Urban Areas",
+    "description": "Covers evacuation strategies for high-density urban environments, including public transport coordination and temporary shelters."
+  },
+  {
+    "id": "ede14ddf-dc86-43fb-b1f5-bd5c30c13d84",
+    "name": "Coastal Region Alert",
+    "location": "Coastal Region",
+    "description": "Designed for potential flood or tsunami threats, this plan includes routes to higher ground and shelter locations."
+  },
+  {
+    "id": "152cc09d-9640-4181-aeb0-6b28636dffd0",
+    "name": "Suburban Evac Plan",
+    "location": "Suburban Areas",
+    "description": "Focuses on evacuation of residential communities, includes coordination with local schools and community centers."
+  }
+]
